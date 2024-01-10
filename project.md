@@ -385,8 +385,10 @@ Then, cloned the repository into my server
 
 21. Opened the website in my browser http://<Web-Server-Public-IP-Address-or-Public-DNS-Name>/index.php
 
-![instance](./images/38.PNG)
-![instance](./images/39.PNG)
+![instance](./images/38.png)
+![instance](./images/39.png)
+
+Note- I repeated step 3 for other 2 webservers
 
 
 
