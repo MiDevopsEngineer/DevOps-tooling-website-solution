@@ -383,7 +383,9 @@ Then, cloned the repository into my server
 ![instance](./images/37b.PNG)
 
 
-21. Opened the website in my browser http://<Web-Server-Public-IP-Address-or-Public-DNS-Name>/index.php
+21. Opened the website in my browser http://<Web-Server-Public-IP-address/index.php
+
+`http://172.31.35.171/index.php`
 
 ![instance](./images/38.png)
 ![instance](./images/39.png)
